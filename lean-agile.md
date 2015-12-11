@@ -203,7 +203,7 @@ Pourtant, apprendre et tirer des leçons de ses erreurs, est l'une des clefs de 
 
 Dans l'acte _stratégie_, nous avons vu des changements, plutôt rares : les pivots.
 
-Dans cet acte _produit_ nous allons réaliser des changements bien plus fréquent, de type "optimisation".
+Dans cet acte _produit_ nous allons réaliser des changements bien plus fréquents, de type "optimisations".
 
 Steve, notre héros, maitrise aujourd'hui mieux son marché, comprend les attentes et les concurrents. Il a déjà ses premiers fans, les _early adopters_ et ses premiere partenaires.
         
