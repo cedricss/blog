@@ -1,10 +1,10 @@
 full_rebuild: true
-name: Photon Book Creator
+name: Blog - Cédric Soulas
 author: Cédric Soulas
 url: https://github.com/cedricss/photon-book-creator
 version: 1.0
 encoding: utf-8
-theme: minimal
+theme: freelancer
 defaults:
   -
     values:
